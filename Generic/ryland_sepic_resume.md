@@ -1,3 +1,4 @@
+<!-- The (first) h1 will be used as the <title> of the HTML page -->
 # Ryland Sepic
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
@@ -52,7 +53,6 @@ B.S. Computer Science and Engineering
   - Full-tuition scholarship.
 
 ## Technologies and Languages
-
 
  - DevOps: Ansible, Artifactory, Bamboo, Harness, Jenkins.
  - Languages: Bash, C/C++, Groovy, Python, Swift.
