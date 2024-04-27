@@ -20,7 +20,10 @@ hand -->
 Software engineer working on migrating applications to the cloud, quality assurance testing, writing
 developing tools for support teams, and working on the build and deploy system. 
 
-* Worked on migrating the first application at the company to the cloud by writing K8s manifests in YAML and creating a CI/CD pipeline in Bamboo and Harness for deploying containers to K8s. I fully support this environment. 
+* Migrated the first application at the company to the cloud by writing 
+K8s manifests in YAML and creating a CI/CD pipeline in Bamboo and 
+Harness for deploying containers to K8s. I fully support this 
+environment. 
 * Upgraded insecure software on over 430 servers by writing an application that scrapes servers for information and performs specific upgrades based on findings.  
 * Provisioned over 300 servers in the cloud environments and assisted development teams of over 20 applications in setting up development and QA environments. 
 * Wrote a REST API in Python with Flask that was used as a QA tool that 3 development teams used to verify the data integrity of their applications when migrated to the cloud.
