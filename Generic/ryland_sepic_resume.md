@@ -1,3 +1,4 @@
+<!-- v1.0.0 -->
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
 # Ryland Sepic
 

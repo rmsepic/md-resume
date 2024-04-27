@@ -24,23 +24,24 @@ plans in Bamboo and Harness. I fully supported this environment afterwards.
 and perform specific upgrades based on the findings.  
 * Setup over 300 servers for over 20 development team's development and QA environments.
 * Performed Quality Assurance testing on 3 applications for cloud migration by writing a Flask REST API app. 
-* Created a support environment, following cyber security principles, with Ansible and Python that support teams could 
-use to troubleshoot and perform mass troubleshooting operations on infrastructure that contained over 800 servers. 
-* Wrote an application for mulitcast testing in Python, used to test networks on 3 separate application architectures. 
+* Created a support environment, following cyber security principles, 
+with Ansible and Python that support teams used to troubleshoot and 
+perform mass troubleshooting operations on infrastructure that contained over 800 servers. 
+* Wrote an application for multicast testing in Python, used to test networks on 3 separate application architectures. 
 
 ### <span>Software Engineer, Keysight Technologies</span><span>January 2022 -- March 2023</span>
 
 * Served as the team DevOps CI/CD expert and leader, supporting over 80 applications including Nuget pacakges, 
 Chocolatey packages, NodeJS and Python apps.
-* Performed a major upgrade to the Jenkins build system, upgrading all vulernable plugins and primary Jenkins software, 
+* Performed a major upgrade to the Jenkins build system, upgrading all vulnerable plugins and primary Jenkins software, 
 while still maintaining backwards compatibility. 
-This initiative involved creating a full scale testing evironment which modeled the CI/CD pipeline 
+This initiative involved creating a full scale testing environment which modeled the CI/CD pipeline 
 used in production.  
-* Created a new CI/CD pipeline from scratch for another team.
+* Created a new Jenkins server to support a special CI/CD pipeline for another team.
 * Wrote CasC as Ansible scripts for provisioning build servers used by the Jenkins.
 * Built a new debug symbol server which became the new company standard. It utilized Artifactory as well
-as involved an upgrade to the company wide build pipeline code, that was used by over 50 engineers
-on over 10 teams. 
+as involved an upgrade to the company wide build pipeline code, that was used by over 100 engineers
+on over 25 teams. 
 * Supported 85 Linux servers accross 20+ sites worldwide which ran applications 
 for testing in factories that were responsible for generating $1billion/year.
 * Created a testing environment in AWS to model a subset of the Linux servers we
